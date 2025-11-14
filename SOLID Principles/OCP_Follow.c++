@@ -17,7 +17,6 @@ class Product{
 };
 
 
-// Violating SRP(Single Responsibilty Principle)
 class ShoppingCart{
 
     private:

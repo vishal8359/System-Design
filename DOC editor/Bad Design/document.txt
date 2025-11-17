@@ -1,3 +1,3 @@
 Hello, world!
-[Image: picture.jpg]
+picture.jpg
 This is a document editor.

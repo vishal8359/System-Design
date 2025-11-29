@@ -62,6 +62,8 @@
 #include <typeinfo>
 #include <utility>
 #include <set>
+#include <queue>
+using namespace std;
 
 #if __cplusplus >= 201103L
 #include <array>
